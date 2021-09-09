@@ -1,6 +1,6 @@
 # WhaleWatch
 <p align='center'>
-<img src='./client/assets/logoNoText.png' />
+<img src='https://live.staticflickr.com/65535/51440879168_1b0caa26ed_o.png' />
 </p>
 
 <h1> Table of Contents </h1>
